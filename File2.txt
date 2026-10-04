@@ -2,3 +2,4 @@ This is the second file for the project
 The 2 file also need some chages
 This line is from br1
 Some changes in master
+This is my new line for task with Polina
